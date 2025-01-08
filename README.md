@@ -23,7 +23,7 @@ De uitwerking bevat minimaal een werkend spel met:
 * een eenvoudige _user interface_;
 * de mogelijkheid om mens vs. mens te spelen;
 * de mogelijkheid om een AI de te raden code te laten kiezen;
-* de mogelijkheid om een AI een door jouw gekozen code te laten raden.
+* de mogelijkheid om een AI een door jouw gekozen code te laten raden (minimaal _twee_ strategieën).
 
 Daarnaast zijn er veel optionele uitbreidingsmogelijkheden, bijvoorbeeld:
 * een validatie op de resultaten uit het artikel van Kooi;
