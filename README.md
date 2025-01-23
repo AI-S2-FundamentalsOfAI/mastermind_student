@@ -1,12 +1,12 @@
 # Mastering Mastermind
 
 
-(c) 2024 Hogeschool Utrecht  
-Auteurs: Tijmen Muller
+(c) 2024 Hogeschool Utrecht
+Auteur: Tijmen Muller
 
-* Studentnummer: 
-* Naam: 
-* Datum: 
+* Studentnummer:
+* Naam:
+* Datum:
 
 
 In deze opdracht ga je het spel Mastermind programmeren, waarbij je met name
@@ -14,7 +14,7 @@ aandacht hebt voor een opbouw van je code. Daarnaast ga je minimaal twee
 _algoritmen_ programmeren, zodat je het spel met de computer kan spelen.
 Een uitleg van het spel vind je bijvoorbeeld in de volgende video:
 https://www.youtube.com/watch?v=rSzX2TtjvHA. Een beschrijving van verschillende
-algoritmen vind je in het artikel 
+algoritmen vind je in het artikel
 [Yet another mastermind strategy](https://research.rug.nl/en/publications/yet-another-mastermind-strategy)
 uit 2005 van Barteld Kooi.
 
